@@ -30,6 +30,6 @@ public class Report {
                 materialType + "," +
                 materialPrice + "," +
                 qty + "," +
-                total + "\n";
+                total;
     }
 }
